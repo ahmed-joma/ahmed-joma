@@ -7,9 +7,6 @@ I have strong experience with *Flutter* and *Dart*, always committed to writing 
 Clean code, simple design, and software that truly adds value are at the core of my work.  
 I’m always eager to learn, grow, and collaborate with teams to turn ideas into successful applications.
 
----
-
-⚡ Fun Fact: I enjoy debugging complex problems and turning them into clean, scalable solutions. Coding is not just a job—it's a craft I love.
 
 ---
 
